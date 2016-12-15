@@ -1,4 +1,4 @@
-# microsoft70-480
+# Microsoft70-480
 Repo for [Microsoft 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx) preperation
 
 ## Links
@@ -28,10 +28,12 @@ Links on top of links on top of links
 
 ### HTML
 
-
+* 
+* 
+* 
 
 ### JS
 
-
-
-
+* 
+* 
+* 
