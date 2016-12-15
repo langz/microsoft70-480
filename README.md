@@ -7,7 +7,7 @@ Links on top of links on top of links
 
 ### Study Guides
 
-* [Exam Ref 70‑480 Programming in HTML5 with JavaScript and CSS3](something)
+* [Exam Ref 70‑480 Programming in HTML5 with JavaScript and CSS3](https://github.com/langz/microsoft70-480/blob/master/material/70-480_Exam_Reference.pdf)
 * [Savtechsol Exam 70-480 Study Guide](http://www.savtechsol.com/Education/Exam-Prep/Pages/Exam-70-480-Study-Guide.aspx)
 * [Youtube Exam Prep Session for Exam 70-480](https://www.youtube.com/watch?v=ZNU73-7BcdM)
 * [Firebrand](https://onedrive.live.com/?id=C51072313481E220%2111175&cid=C51072313481E220)
