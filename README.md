@@ -1,9 +1,15 @@
 # Microsoft70-480
-Repo for [Microsoft 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx) preperation
+[Microsoft 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx) preperation for [Ahmad](https://github.com/ahmadhamadeh) & [Anders](https://github.com/langz) 
+
 
 ## Links
 
 Links on top of links on top of links
+
+### Calendar
+
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=oqvof5ovjqs3cq956mgo1r2j3g%40group.calendar.google.com&ctz=Europe/Brussels)
+
 
 ### Study Guides
 
