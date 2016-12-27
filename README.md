@@ -5,7 +5,9 @@
 ## Getting Started
 
 `npm install`
+
 `npm start -- --server anders/html/html5`
+
 This command serves the index.html file in the folder `anders/html/html5`, watches all files except .gitignore, and update connected browsers if a change occurs.
 
 ## Links
