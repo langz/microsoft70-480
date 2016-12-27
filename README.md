@@ -2,6 +2,12 @@
 [Microsoft 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx) preperation for [Ahmad](https://github.com/ahmadhamadeh) & [Anders](https://github.com/langz) 
 
 
+## Getting Started
+
+`npm install`
+`npm start -- --server anders/html/html5`
+This command serves the index.html file in the folder `anders/html/html5`, watches all files except .gitignore, and update connected browsers if a change occurs.
+
 ## Links
 
 Links on top of links on top of links
